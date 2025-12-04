@@ -18,7 +18,7 @@ const projects = [
     ],
     category: "Multi-Agent AI",
     color: "from-orange-500 to-pink-600",
-    github: "https://github.com/Pragatees/portfolio-mod",
+    github: "https://github.com/Pragatees/SmartReportAI-main",
     video: "https://drive.google.com/file/d/1p8VsGktT0EON2tYLRRHXNZHzBbkY89Yb/preview", // Using existing video or replace later
     emoji: "Document"
   },
