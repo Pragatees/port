@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Phone, MessageCircle, Instagram, Download, Mail, Brain, Zap, Github, ExternalLink } from 'lucide-react';
 import prof from './things/profile.jpg';
-import res from './things/resume.pdf';
+import res from './things/Pragateesh G Resume.pdf';
 
 function Home() {
   const [animationStarted, setAnimationStarted] = useState(false);

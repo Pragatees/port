@@ -10,7 +10,7 @@ import { vscDarkPlus } from 'react-syntax-highlighter/dist/esm/styles/prism';
 import prof from './things/profile.jpg';
 
 // YOUR API KEY — EXACTLY SAME
-const genAI = new GoogleGenerativeAI("AIzaSyCgTLCpFIccSdja2eZcii9S0DXKTiidE78");
+const genAI = new GoogleGenerativeAI("AIzaSyBstyvARlnGV-8Nw92h2ivH8S1m89Kl3wo");
 
 const Chatbot = ({ isOpen, toggleChatbot }) => {
   const [messages, setMessages] = useState([
