@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=800&color=EC4899&center=true&vCenter=true&multiline=true&width=680&height=90&lines=🎨+Built+with+Tailwind+CSS+%26+Framer+Motion;✨+Add+your+photo+%26+resume+—+you're+done!;🚀+Fast+%7C+Beautiful+%7C+Ready+to+Deploy" alt="Typing SVG" />
-</a>
-
 <br/><br/>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
